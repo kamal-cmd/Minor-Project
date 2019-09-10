@@ -1,0 +1,23 @@
+.mai{
+    background-color: chocolate;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+}
+.im{
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+}
+.form{
+    background-color: gray;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    /* background-image:url(../../assets/images/images.jfif); */
+}
+.map{
+  
+    height:50%;
+    width:100%;
+}

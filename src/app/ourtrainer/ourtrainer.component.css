@@ -1,0 +1,21 @@
+.trainer{
+   /* background-color: aqua; */
+    height: 100%;
+    width: 100%;
+}
+.pre{
+    height:100%;
+    width: 20%;
+    background-size: cover;
+    
+}
+.vir{
+    background-color: blanchedalmond;
+    height:50%;
+    width:100%;
+    background-size: cover;
+}
+.v{
+    height: 10%;
+    width: 20%;
+}

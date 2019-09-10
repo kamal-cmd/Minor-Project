@@ -1,0 +1,36 @@
+.main{
+    background-color: gray;
+    float: left;
+    height:100%;
+    width:100%;
+    background-size: cover;
+
+}
+
+.img{
+    height:100%;
+    width:100%;
+    background-size: cover;
+}
+
+.contact{
+    background-color: aqua;
+    height:400px;
+    width:50%;
+    float: left;
+}
+.left{
+    float:left;
+    height:400px;
+    width:50%;
+    background-color: orange;
+}
+.kam{
+    height: 50px;
+    position: relative;
+}
+.ma{
+    height:100%;
+    width:100%;
+    background-color: blue;
+}

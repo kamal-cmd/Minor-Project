@@ -1,1 +1,28 @@
 /* You can add global styles to this file, and also import other style files */
+
+  
+* {
+    box-sizing: border-box;
+  }
+  
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  .column:hover
+  {
+    transition: 0.8s;
+  
+  }
+  .column:hover{
+    opacity:0.3;
+  }
