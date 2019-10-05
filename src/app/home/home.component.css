@@ -2,6 +2,7 @@
   
 * {
   box-sizing: border-box;
+  
 }
 
 .column {
@@ -25,7 +26,22 @@
 .column:hover{
   opacity:0.3;
 }
-.card{
+ .card{
   height:100px;
   width: 100%;
+}
+/* .add{
+  height:100px;
+  width:100%;
+  background-color: chartreuse;
+} */
+.he{
+  text-align: center;
+  
+}
+.card-header{
+  background-color: goldenrod;
+}
+.card-body{
+  background-color: gold;
 }

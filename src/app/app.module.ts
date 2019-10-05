@@ -18,6 +18,8 @@ import {FormsModule} from '@angular/forms';
 import{ HttpClientModule } from '@angular/common/http';
 import { UpdateComponent } from './update/update.component';
 import { ContactComponent } from './contact/contact.component';
+import { PremComponent } from './prem/prem.component';
+import { BirComponent } from './bir/bir.component';
 
 @NgModule({
   declarations: [
@@ -39,6 +41,10 @@ import { ContactComponent } from './contact/contact.component';
     UpdateComponent,
    
     ContactComponent,
+   
+    PremComponent,
+   
+    BirComponent,
   ],
   imports: [
     BrowserModule,

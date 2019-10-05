@@ -1,0 +1,19 @@
+.r{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 100px;
+   
+    padding: 30px;
+}
+.why{
+    height:635px;
+    width:100%;
+    background-color: cadetblue; 
+}
+.t{
+    text-align: center;
+    padding: 10px;
+    font-size:50px;
+    text-shadow: 5px 5px purple;
+}
